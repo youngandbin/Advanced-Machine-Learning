@@ -14,8 +14,6 @@
   - advanced
     - comparisons with other data (Fashion MNIST, Caltech-256) and models (CNN, ResNet101)
     - ablation studies
-- Report
-  - format: ICML2022
 - Code
   - ML_models.ipynb
     - KNN, SVM, Decision tree, Random forest
@@ -34,6 +32,14 @@
     - computationally efficient GP regression using the subset of regressors (SOR) approximation 
     - comparisons with other regression algorithms
     - other kernels
-- Report
-  - format: NIPS2022
 - Code
+
+# 3. Neural Processes
+
+# 4. Neural Network Regression
+
+- Description
+  - compare models
+    - RF, GP, MLP, CNN, and more
+  - data
+    - 3D Hand Pose Estimation 
